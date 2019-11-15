@@ -4030,6 +4030,12 @@ msgstr "URL-Parametrit"
 msgid "URLs:"
 msgstr "URLit:"
 
+msgid "US (English)"
+msgstr "Yhdysvallat"
+
+msgid "US (Spanish)"
+msgstr "Yhdysvallat (espanja)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Imperiaalinen (Paunat, jalat, fahrenheit)"
@@ -4089,11 +4095,11 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "Iso-Britannia"
 
-msgid "US (English)"
-msgstr "Yhdysvallat"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Yhdysvallat (espanja)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -533,10 +533,9 @@ msgid ""
 "information will be stored in the cloud, and your pass phrase will never "
 "leave your browser."
 msgstr ""
-"Standardindstillinger er ikke gemt i browser cookies (i din browser). Du "
-"kan anonymt gemme dine indstillinger (i skyen). Ingen personlige "
-"informationer vil blive gemt i skyen, og dine kodeord vil aldrig forlade "
-"din browser."
+"Standardindstillinger er ikke gemt i browser cookies (i din browser). Du kan "
+"anonymt gemme dine indstillinger (i skyen). Ingen personlige informationer "
+"vil blive gemt i skyen, og dine kodeord vil aldrig forlade din browser."
 
 #. Instant Answer tab name
 msgid "Calendar"
@@ -2686,8 +2685,7 @@ msgstr "Adgangskoden blev ikke fundet"
 #. Then - http://i.imgur.com/pN6edwb.png
 msgctxt "cloudsave"
 msgid "Passphrases cannot feasibly be reverse engineered from a key"
-msgstr ""
-"Det er ikke realistisk at genskabe adgangskoder ud fra en nøgle."
+msgstr "Det er ikke realistisk at genskabe adgangskoder ud fra en nøgle."
 
 #. Option for the filter-by-date search.
 msgid "Past Day"
@@ -4033,6 +4031,12 @@ msgstr "URL parametre"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "USA"
+
+msgid "US (Spanish)"
+msgstr "USA (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Amerikanske enheder (pund, fod, fahrenheit)"
@@ -4091,11 +4095,11 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "Det Forenede Kongerige"
 
-msgid "US (English)"
-msgstr "USA"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "USA (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

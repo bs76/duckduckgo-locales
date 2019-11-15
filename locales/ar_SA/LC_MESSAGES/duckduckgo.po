@@ -3997,6 +3997,12 @@ msgstr "علامات الروابط"
 msgid "URLs:"
 msgstr "http://www.DuckDuckgo.coom"
 
+msgid "US (English)"
+msgstr "امريكا"
+
+msgid "US (Spanish)"
+msgstr "امريكا (اللغة الاسبانية)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "وحدات أمريكية (رطل, قدم, فهرينهايت)"
@@ -4056,11 +4062,11 @@ msgstr "ترميز Unicode"
 msgid "United Kingdom"
 msgstr "المملكة المتحدة"
 
-msgid "US (English)"
-msgstr "امريكا"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "امريكا (اللغة الاسبانية)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

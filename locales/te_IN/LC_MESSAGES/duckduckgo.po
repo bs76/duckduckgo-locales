@@ -3970,6 +3970,12 @@ msgstr "యూఆర్ఎల్ పరామితులు"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "యునైటెడ్ స్టేట్స్"
+
+msgid "US (Spanish)"
+msgstr "యునైటెడ్ స్టేట్స్ (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "అమెరికా వారికి (పౌండ్లు, అడుగులు, ఫారెన్‌హీట్)"
@@ -4025,11 +4031,11 @@ msgstr "యూనీకోడు"
 msgid "United Kingdom"
 msgstr "యునైటెడ్ కింగ్‌డమ్"
 
-msgid "US (English)"
-msgstr "యునైటెడ్ స్టేట్స్"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "యునైటెడ్ స్టేట్స్ (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

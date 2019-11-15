@@ -4071,6 +4071,12 @@ msgstr "Paramadairean nan URL"
 msgid "URLs:"
 msgstr "URLaichean:"
 
+msgid "US (English)"
+msgstr "Na Stàitean Aonaichte"
+
+msgid "US (Spanish)"
+msgstr "Na Stàitean Aonaichte (Spàinntis)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Nòs nan SA (punnd, troighean is Fahrenheit)"
@@ -4133,11 +4139,11 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "An Rìoghachd Aonaichte"
 
-msgid "US (English)"
-msgstr "Na Stàitean Aonaichte"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Na Stàitean Aonaichte (Spàinntis)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

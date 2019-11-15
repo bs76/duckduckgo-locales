@@ -4055,6 +4055,12 @@ msgstr "Параметры URL"
 msgid "URLs:"
 msgstr "Адрасы:"
 
+msgid "US (English)"
+msgstr "Злучаныя Штаты"
+
+msgid "US (Spanish)"
+msgstr "Злучаныя Штаты Амерыкі (ісп)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "ЗША (фунты, футы, Фарэнгейт)"
@@ -4114,11 +4120,11 @@ msgstr "Унікод"
 msgid "United Kingdom"
 msgstr "Вялікабрытанія"
 
-msgid "US (English)"
-msgstr "Злучаныя Штаты"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Злучаныя Штаты Амерыкі (ісп)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

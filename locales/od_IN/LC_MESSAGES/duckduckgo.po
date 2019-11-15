@@ -4013,6 +4013,12 @@ msgstr "ୟୁଆରଏଲ ପାରାମିଟର"
 msgid "URLs:"
 msgstr "ୟୁଆରଏଲ"
 
+msgid "US (English)"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର"
+
+msgid "US (Spanish)"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "ଆମେରିକା ଆଧାରିତ (ପାଉଣ୍ଡ, ଫୁଟ, ଫାରେନହାଇଟ)"
@@ -4071,11 +4077,11 @@ msgstr "ୟୁନିକୋଡ଼"
 msgid "United Kingdom"
 msgstr "ଯୁକ୍ତରାଜ୍ୟ"
 
-msgid "US (English)"
-msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

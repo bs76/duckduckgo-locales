@@ -4022,6 +4022,12 @@ msgstr "Arventennoù an URL"
 msgid "URLs:"
 msgstr "URLioù :"
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "diazezet war ar Stadoù Unanet (Levrioù, Treid, Fahrenheit)"
@@ -4084,10 +4090,10 @@ msgstr ""
 msgid "United Kingdom"
 msgstr ""
 
-msgid "US (English)"
+msgid "United States"
 msgstr ""
 
-msgid "US (Spanish)"
+msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

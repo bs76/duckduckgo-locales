@@ -4046,6 +4046,12 @@ msgstr "nimi tawa kama pi nimi tawa"
 msgid "URLs:"
 msgstr "nimi tawa mute:"
 
+msgid "US (English)"
+msgstr "ma Mewika"
+
+msgid "US (Spanish)"
+msgstr "ma Mewika (toki Epanja)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "sama ma Mewika"
@@ -4105,11 +4111,11 @@ msgstr "ilo Unicode"
 msgid "United Kingdom"
 msgstr "ma Juke"
 
-msgid "US (English)"
-msgstr "ma Mewika"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "ma Mewika (toki Epanja)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

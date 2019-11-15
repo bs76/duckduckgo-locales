@@ -649,7 +649,9 @@ msgstr "Cambia la lingua nell'intero sito"
 
 msgctxt "settings"
 msgid "Changes the result hover, module, and dropdown background color"
-msgstr "Cambia il colore di risultati al passaggio del mouse, dei moduli e dello sfondo dei menu a tendina"
+msgstr ""
+"Cambia il colore di risultati al passaggio del mouse, dei moduli e dello "
+"sfondo dei menu a tendina"
 
 #. http://i.imgur.com/f1bLTY1.png 
 #. Description for "Result Title Color" which changes the color of the results. 
@@ -4083,6 +4085,12 @@ msgstr "Parametri URL"
 msgid "URLs:"
 msgstr "URL:"
 
+msgid "US (English)"
+msgstr "Stati Uniti"
+
+msgid "US (Spanish)"
+msgstr "Stati Uniti (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Statunitensi (Libbre, Piedi, Fahrenheit)"
@@ -4146,11 +4154,11 @@ msgstr "Unicode"
 msgid "United Kingdom"
 msgstr "Regno Unito"
 
-msgid "US (English)"
-msgstr "Stati Uniti"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Stati Uniti (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -4030,6 +4030,12 @@ msgstr "Retligaj parametroj"
 msgid "URLs:"
 msgstr "Retligoj:"
 
+msgid "US (English)"
+msgstr "Usono"
+
+msgid "US (Spanish)"
+msgstr "Usono (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Bazita je la usona sistemo (funtoj, piedoj, fahrenheit)"
@@ -4088,11 +4094,11 @@ msgstr "Unikodo"
 msgid "United Kingdom"
 msgstr "Britio"
 
-msgid "US (English)"
-msgstr "Usono"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Usono (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

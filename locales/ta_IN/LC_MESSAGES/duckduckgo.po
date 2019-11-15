@@ -3995,6 +3995,12 @@ msgstr "சீரான வள அளவுருக்களை"
 msgid "URLs:"
 msgstr "சீரான வள இடப்பொருத்திகள்:"
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "அமெரிக்கா சார்ந்த (பவுண்டுகள், அடி, பாரன்ஹீட்)"
@@ -4055,10 +4061,10 @@ msgstr "ஒருங்குக்குறி"
 msgid "United Kingdom"
 msgstr ""
 
-msgid "US (English)"
+msgid "United States"
 msgstr ""
 
-msgid "US (Spanish)"
+msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

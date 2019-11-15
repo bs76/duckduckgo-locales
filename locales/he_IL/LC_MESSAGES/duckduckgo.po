@@ -3989,6 +3989,12 @@ msgstr "הגדרות URL"
 msgid "URLs:"
 msgstr "כתובות URL:"
 
+msgid "US (English)"
+msgstr "ארצות הברית"
+
+msgid "US (Spanish)"
+msgstr "ארצות הברית (ספרדית)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "מידות אימפריליות (פאונד, רגל, פרנהייט)"
@@ -4047,11 +4053,11 @@ msgstr "יוניקוד"
 msgid "United Kingdom"
 msgstr "הממלכה המאוחדת"
 
-msgid "US (English)"
-msgstr "ארצות הברית"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "ארצות הברית (ספרדית)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

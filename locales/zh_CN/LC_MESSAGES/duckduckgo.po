@@ -3978,6 +3978,12 @@ msgstr "URL参数"
 msgid "URLs:"
 msgstr "网址："
 
+msgid "US (English)"
+msgstr "美国"
+
+msgid "US (Spanish)"
+msgstr "美国（西班牙语）"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "美制单位（磅、英尺、华氏度）"
@@ -4034,11 +4040,11 @@ msgstr "Unicode"
 msgid "United Kingdom"
 msgstr "英国"
 
-msgid "US (English)"
-msgstr "美国"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "美国（西班牙语）"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

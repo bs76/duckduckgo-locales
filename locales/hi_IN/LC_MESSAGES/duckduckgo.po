@@ -3984,6 +3984,12 @@ msgstr "यूआरएल पैरामीटर्स "
 msgid "URLs:"
 msgstr "यूआरएल "
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "अमरीका आधारित (पाउण्ड, फुट, फैरेनहाइट)"
@@ -4043,10 +4049,10 @@ msgstr "यूनिकोड"
 msgid "United Kingdom"
 msgstr ""
 
-msgid "US (English)"
+msgid "United States"
 msgstr ""
 
-msgid "US (Spanish)"
+msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

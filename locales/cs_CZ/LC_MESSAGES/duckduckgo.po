@@ -4023,6 +4023,12 @@ msgstr "Parametry URL adresy"
 msgid "URLs:"
 msgstr "URL adresy"
 
+msgid "US (English)"
+msgstr "Spojené státy"
+
+msgid "US (Spanish)"
+msgstr "Spojené státy (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Imperiální (libry, stopy, stupně Fahrenheita)"
@@ -4084,11 +4090,11 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "Spojené království"
 
-msgid "US (English)"
-msgstr "Spojené státy"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Spojené státy (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

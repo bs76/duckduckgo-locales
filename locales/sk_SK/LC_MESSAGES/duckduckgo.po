@@ -3995,6 +3995,12 @@ msgstr "URL Parametre"
 msgid "URLs:"
 msgstr "URL adresy"
 
+msgid "US (English)"
+msgstr "Spojené štáty"
+
+msgid "US (Spanish)"
+msgstr "Spojené štáty (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "So sídlom v USA (Pounds, Feet, Fahrenheit)"
@@ -4056,11 +4062,11 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "Spojené kráľovstvo"
 
-msgid "US (English)"
-msgstr "Spojené štáty"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Spojené štáty (es)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

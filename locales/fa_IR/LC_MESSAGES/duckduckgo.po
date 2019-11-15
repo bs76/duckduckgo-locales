@@ -4048,6 +4048,12 @@ msgstr "پارامترهای نشانی اینترنتی"
 msgid "URLs:"
 msgstr "نشانی‌های اینترنتی:"
 
+msgid "US (English)"
+msgstr "ایالات متحده آمریکا"
+
+msgid "US (Spanish)"
+msgstr "‫ایالات متحده (اسپانیولی)‬"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "‫واحدهای آمریکایی (پوند٬ فوت٬ فارنهایت)‬"
@@ -4110,11 +4116,11 @@ msgstr "یونیکد"
 msgid "United Kingdom"
 msgstr "انگلستان"
 
-msgid "US (English)"
-msgstr "ایالات متحده آمریکا"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "‫ایالات متحده (اسپانیولی)‬"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -3995,6 +3995,12 @@ msgstr ""
 msgid "URLs:"
 msgstr "ইউআরএলসমূহ:"
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "আমেরিকার মত (পাউন্ড, ফিট, ফারেনহাইট)"
@@ -4052,10 +4058,10 @@ msgstr "ইউনিকোড"
 msgid "United Kingdom"
 msgstr ""
 
-msgid "US (English)"
+msgid "United States"
 msgstr ""
 
-msgid "US (Spanish)"
+msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

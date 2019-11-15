@@ -4063,6 +4063,12 @@ msgstr "Параметры URL"
 msgid "URLs:"
 msgstr "URL-ы:"
 
+msgid "US (English)"
+msgstr "США"
+
+msgid "US (Spanish)"
+msgstr "США (испанский)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr " США (фунты, футы, градусы по Фаренгейту)"
@@ -4125,11 +4131,11 @@ msgstr "Юникод"
 msgid "United Kingdom"
 msgstr "Великобритания"
 
-msgid "US (English)"
-msgstr "США"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "США (испанский)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -3965,6 +3965,12 @@ msgstr ""
 msgid "URLs:"
 msgstr "روابط (URL):"
 
+msgid "US (English)"
+msgstr "الولايات المتحدة الأمريكية"
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr ""
@@ -4020,10 +4026,10 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "المملكة المتحدة"
 
-msgid "US (English)"
-msgstr "الولايات المتحدة الأمريكية"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
+msgid "United States (es)"
 msgstr ""
 
 msgctxt "settings"

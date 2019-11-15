@@ -4065,6 +4065,12 @@ msgstr "URL paraméterek"
 msgid "URLs:"
 msgstr "URL-ek:"
 
+msgid "US (English)"
+msgstr "Egyesült Államok"
+
+msgid "US (Spanish)"
+msgstr "Egyesült Államok (spanyol)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Amerikai mértékegységek (font,láb, Fahrenheit)"
@@ -4133,11 +4139,11 @@ msgstr ""
 msgid "United Kingdom"
 msgstr "Egyesült Királyság"
 
-msgid "US (English)"
-msgstr "Egyesült Államok"
+msgid "United States"
+msgstr ""
 
-msgid "US (Spanish)"
-msgstr "Egyesült Államok (spanyol)"
+msgid "United States (es)"
+msgstr ""
 
 msgctxt "settings"
 msgid "Units of Measure"
