@@ -4018,6 +4018,12 @@ msgstr "Những tham số URL"
 msgid "URLs:"
 msgstr "Các url:"
 
+msgid "US (English)"
+msgstr "Hoa Kỳ"
+
+msgid "US (Spanish)"
+msgstr "Hoa Kỳ (T.TBNha)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Kiểu Mỹ (pao, phút, độ F)"
@@ -4075,12 +4081,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Vương Quốc Anh"
-
-msgid "US (English)"
-msgstr "Hoa Kỳ"
-
-msgid "US (Spanish)"
-msgstr "Hoa Kỳ (T.TBNha)"
 
 msgctxt "settings"
 msgid "Units of Measure"

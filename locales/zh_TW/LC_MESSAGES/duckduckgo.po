@@ -3968,6 +3968,12 @@ msgstr "URL參數"
 msgid "URLs:"
 msgstr "連結:"
 
+msgid "US (English)"
+msgstr "美國"
+
+msgid "US (Spanish)"
+msgstr "美國(西班牙文)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "美式單位（磅數，英尺，華氏溫度）"
@@ -4022,12 +4028,6 @@ msgstr "萬國碼"
 
 msgid "United Kingdom"
 msgstr "英國"
-
-msgid "US (English)"
-msgstr "美國"
-
-msgid "US (Spanish)"
-msgstr "美國(西班牙文)"
 
 msgctxt "settings"
 msgid "Units of Measure"

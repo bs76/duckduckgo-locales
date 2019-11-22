@@ -294,7 +294,7 @@ msgid "Answer"
 msgstr "Odpoveď"
 
 #. In feedback page, first box. https://duckduckgo.com/feedback 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Answers to most DuckDuckGo questions, like:"
 msgstr "Odpovede na väčšinu otázok, ako napr.:"
 
@@ -3996,6 +3996,12 @@ msgstr "URL Parametre"
 msgid "URLs:"
 msgstr "URL adresy"
 
+msgid "US (English)"
+msgstr "Spojené štáty"
+
+msgid "US (Spanish)"
+msgstr "Spojené štáty (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "So sídlom v USA (Pounds, Feet, Fahrenheit)"
@@ -4056,12 +4062,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Spojené kráľovstvo"
-
-msgid "US (English)"
-msgstr "Spojené štáty"
-
-msgid "US (Spanish)"
-msgstr "Spojené štáty (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

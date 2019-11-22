@@ -3450,7 +3450,7 @@ msgctxt "video-duration"
 msgid "Short"
 msgstr "Krótki"
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Shortcuts to other sites to search off DuckDuckGo"
 msgstr "Skróty do innych wyszukiwarek"
 
@@ -3498,7 +3498,7 @@ msgstr ""
 "Pokazuje sporadyczne przypomnienia o dodaniu DuckDuckGo do twojej "
 "przeglądarki"
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgctxt "settings"
 msgid ""
 "Show occasional reminders to sign up for the DuckDuckGo privacy newsletter"
@@ -4053,6 +4053,12 @@ msgstr "Parametry URL"
 msgid "URLs:"
 msgstr "URL-e:"
 
+msgid "US (English)"
+msgstr "Stany Zjednoczone"
+
+msgid "US (Spanish)"
+msgstr "Stany Zjednoczone (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Imperialne (funty, stopy, Fahrenheit'y)"
@@ -4113,12 +4119,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Zjednoczone Królestwo"
-
-msgid "US (English)"
-msgstr "Stany Zjednoczone"
-
-msgid "US (Spanish)"
-msgstr "Stany Zjednoczone (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

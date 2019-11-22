@@ -3990,6 +3990,12 @@ msgstr "URL parameetrid"
 msgid "URLs:"
 msgstr "URLid:"
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "USA põhine (Nael, Jalg, Fahrenheit)"
@@ -4045,12 +4051,6 @@ msgid "Unicode"
 msgstr ""
 
 msgid "United Kingdom"
-msgstr ""
-
-msgid "US (English)"
-msgstr ""
-
-msgid "US (Spanish)"
 msgstr ""
 
 msgctxt "settings"

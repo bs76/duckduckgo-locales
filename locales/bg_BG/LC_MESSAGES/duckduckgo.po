@@ -4029,6 +4029,12 @@ msgstr "URL параметри"
 msgid "URLs:"
 msgstr "URL адреси:"
 
+msgid "US (English)"
+msgstr "Съединените Щати"
+
+msgid "US (Spanish)"
+msgstr "Съединените Щати (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Американски (Паунди, Футове, Фаренхайт)"
@@ -4091,12 +4097,6 @@ msgstr "Уникод"
 
 msgid "United Kingdom"
 msgstr ""
-
-msgid "US (English)"
-msgstr "Съединените Щати"
-
-msgid "US (Spanish)"
-msgstr "Съединените Щати (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

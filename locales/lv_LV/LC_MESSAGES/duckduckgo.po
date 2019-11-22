@@ -4000,6 +4000,12 @@ msgstr "URL Parametri"
 msgid "URLs:"
 msgstr "URLi:"
 
+msgid "US (English)"
+msgstr "Amerikas Savienotās Valstis"
+
+msgid "US (Spanish)"
+msgstr "Amerikas Savienotās Valstis (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "ASV bāzes (mārciņas, pēdas, Fahrenheits)"
@@ -4057,12 +4063,6 @@ msgstr "Unikods"
 
 msgid "United Kingdom"
 msgstr "Apvienotā Karaliste"
-
-msgid "US (English)"
-msgstr "Amerikas Savienotās Valstis"
-
-msgid "US (Spanish)"
-msgstr "Amerikas Savienotās Valstis (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

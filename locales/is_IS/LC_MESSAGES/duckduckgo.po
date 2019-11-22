@@ -3953,6 +3953,12 @@ msgstr ""
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr ""
@@ -4006,12 +4012,6 @@ msgid "Unicode"
 msgstr ""
 
 msgid "United Kingdom"
-msgstr ""
-
-msgid "US (English)"
-msgstr ""
-
-msgid "US (Spanish)"
 msgstr ""
 
 msgctxt "settings"

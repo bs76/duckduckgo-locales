@@ -3999,6 +3999,12 @@ msgstr "URL Parametrləri"
 msgid "URLs:"
 msgstr "URLlər:"
 
+msgid "US (English)"
+msgstr "Amerika Birləşmiş Ştatları"
+
+msgid "US (Spanish)"
+msgstr "Amerika Birləşmiş Ştatları"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Amerikada (Paund, Fit, Fahrenheit)"
@@ -4055,12 +4061,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Birləşmiş Krallıq"
-
-msgid "US (English)"
-msgstr "Amerika Birləşmiş Ştatları"
-
-msgid "US (Spanish)"
-msgstr "Amerika Birləşmiş Ştatları"
 
 msgctxt "settings"
 msgid "Units of Measure"

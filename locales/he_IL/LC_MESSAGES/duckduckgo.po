@@ -3435,7 +3435,7 @@ msgctxt "settings"
 msgid "Show horizontal lines at result page breaks"
 msgstr "הצג קו אופקי מפריד במעברי העמוד של תוצאות החיפוש"
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgctxt "settings"
 msgid "Show links to instructions for how to add DuckDuckGo to your browser"
 msgstr "להציג קישורים להוראות איך להוסיף את דאק-דאק-גו לדפדפן שלך"
@@ -3990,6 +3990,12 @@ msgstr "הגדרות URL"
 msgid "URLs:"
 msgstr "כתובות URL:"
 
+msgid "US (English)"
+msgstr "ארצות הברית"
+
+msgid "US (Spanish)"
+msgstr "ארצות הברית (ספרדית)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "מידות אימפריליות (פאונד, רגל, פרנהייט)"
@@ -4047,12 +4053,6 @@ msgstr "יוניקוד"
 
 msgid "United Kingdom"
 msgstr "הממלכה המאוחדת"
-
-msgid "US (English)"
-msgstr "ארצות הברית"
-
-msgid "US (Spanish)"
-msgstr "ארצות הברית (ספרדית)"
 
 msgctxt "settings"
 msgid "Units of Measure"

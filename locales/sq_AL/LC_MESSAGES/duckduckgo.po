@@ -4015,6 +4015,12 @@ msgstr "Paramentrat e URL-së"
 msgid "URLs:"
 msgstr "URL-të:"
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Sistemi imperial (paund, fut, Fahrenhait)"
@@ -4072,12 +4078,6 @@ msgid "Unicode"
 msgstr "Unikod"
 
 msgid "United Kingdom"
-msgstr ""
-
-msgid "US (English)"
-msgstr ""
-
-msgid "US (Spanish)"
 msgstr ""
 
 msgctxt "settings"

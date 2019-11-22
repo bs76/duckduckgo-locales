@@ -3955,6 +3955,12 @@ msgstr ""
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "สหรัฐอเมริกา"
+
+msgid "US (Spanish)"
+msgstr "สหรัฐอเมริกา (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "หน่วยอเมริกา (ปอนด์, ฟุต, ฟาเรนไฮต์)"
@@ -4009,12 +4015,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "สหราชอาณาจักร"
-
-msgid "US (English)"
-msgstr "สหรัฐอเมริกา"
-
-msgid "US (Spanish)"
-msgstr "สหรัฐอเมริกา (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

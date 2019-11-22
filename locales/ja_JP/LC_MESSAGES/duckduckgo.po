@@ -1826,7 +1826,7 @@ msgid "Install DuckDuckGo"
 msgstr "DuckDuckGoをインストールする"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Install DuckDuckGo Safari Extension?"
 msgstr "Safari用の拡張機能をインストールしますか？"
 
@@ -4041,6 +4041,12 @@ msgstr "URLパラメータ"
 msgid "URLs:"
 msgstr "URL:"
 
+msgid "US (English)"
+msgstr "アメリカ合衆国"
+
+msgid "US (Spanish)"
+msgstr "アメリカ合衆国（西）"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "アメリカ合衆国の単位系(ポンド・フィート・華氏温度)"
@@ -4102,12 +4108,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "イギリス"
-
-msgid "US (English)"
-msgstr "アメリカ合衆国"
-
-msgid "US (Spanish)"
-msgstr "アメリカ合衆国（西）"
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -1829,7 +1829,7 @@ msgid "Install DuckDuckGo"
 msgstr "Усталяваць DuckDuckGo"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Install DuckDuckGo Safari Extension?"
 msgstr "Усталюйце пашырэнне для \"Safari\"?"
 
@@ -4056,6 +4056,12 @@ msgstr "Параметры URL"
 msgid "URLs:"
 msgstr "Адрасы:"
 
+msgid "US (English)"
+msgstr "Злучаныя Штаты"
+
+msgid "US (Spanish)"
+msgstr "Злучаныя Штаты Амерыкі (ісп)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "ЗША (фунты, футы, Фарэнгейт)"
@@ -4114,12 +4120,6 @@ msgstr "Унікод"
 
 msgid "United Kingdom"
 msgstr "Вялікабрытанія"
-
-msgid "US (English)"
-msgstr "Злучаныя Штаты"
-
-msgid "US (Spanish)"
-msgstr "Злучаныя Штаты Амерыкі (ісп)"
 
 msgctxt "settings"
 msgid "Units of Measure"

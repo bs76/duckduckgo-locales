@@ -4034,6 +4034,12 @@ msgstr "Bronadresparameters"
 msgid "URLs:"
 msgstr "Bronadresse:"
 
+msgid "US (English)"
+msgstr "Verenigde State"
+
+msgid "US (Spanish)"
+msgstr "Verenigde State (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "VS-gebaseer (Ponde, Voet, Fahrenheit)"
@@ -4091,12 +4097,6 @@ msgstr "Unikode"
 
 msgid "United Kingdom"
 msgstr "Verenigde Koninkryk"
-
-msgid "US (English)"
-msgstr "Verenigde State"
-
-msgid "US (Spanish)"
-msgstr "Verenigde State (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

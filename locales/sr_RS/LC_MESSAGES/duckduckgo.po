@@ -4055,6 +4055,12 @@ msgstr "Адресни параметри"
 msgid "URLs:"
 msgstr "Адресе:"
 
+msgid "US (English)"
+msgstr "Америка"
+
+msgid "US (Spanish)"
+msgstr "Америка (шпа)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Амерички (Фунта, Стопа, Фаренхајт)"
@@ -4113,12 +4119,6 @@ msgstr "Unikod"
 
 msgid "United Kingdom"
 msgstr "Енглеска"
-
-msgid "US (English)"
-msgstr "Америка"
-
-msgid "US (Spanish)"
-msgstr "Америка (шпа)"
 
 msgctxt "settings"
 msgid "Units of Measure"

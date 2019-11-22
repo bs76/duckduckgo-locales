@@ -4092,6 +4092,12 @@ msgstr "Παράμετροι URL"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "Ηνωμένες Πολιτείες"
+
+msgid "US (Spanish)"
+msgstr "Ηνωμένες Πολιτείες (Ισπ)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Με μονάδες ΗΠΑ (Λίβρες, Πόδια, Φάρεναϊτ)"
@@ -4159,12 +4165,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Ηνωμένο Βασίλειο"
-
-msgid "US (English)"
-msgstr "Ηνωμένες Πολιτείες"
-
-msgid "US (Spanish)"
-msgstr "Ηνωμένες Πολιτείες (Ισπ)"
 
 msgctxt "settings"
 msgid "Units of Measure"

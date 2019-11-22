@@ -1359,7 +1359,7 @@ msgstr ""
 msgid "Find %sDuckDuckGo%s and click%sMake default%s"
 msgstr ""
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Find DuckDuckGo in the displayed list and click %sMake Default%s"
 msgstr "प्रदर्शित सूचीमें  %sमेक  डीफॉल्ट %s विकल्पपर क्लिक किजिये "
 
@@ -1795,7 +1795,7 @@ msgid "Install DuckDuckGo"
 msgstr ""
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Install DuckDuckGo Safari Extension?"
 msgstr "डक डक गो को सफारी ब्राउसर में इंस्टाल करें"
 
@@ -3986,6 +3986,12 @@ msgstr "यूआरएल पैरामीटर्स "
 msgid "URLs:"
 msgstr "यूआरएल "
 
+msgid "US (English)"
+msgstr ""
+
+msgid "US (Spanish)"
+msgstr ""
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "अमरीका आधारित (पाउण्ड, फुट, फैरेनहाइट)"
@@ -4043,12 +4049,6 @@ msgid "Unicode"
 msgstr "यूनिकोड"
 
 msgid "United Kingdom"
-msgstr ""
-
-msgid "US (English)"
-msgstr ""
-
-msgid "US (Spanish)"
 msgstr ""
 
 msgctxt "settings"

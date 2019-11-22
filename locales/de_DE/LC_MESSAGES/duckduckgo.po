@@ -4093,6 +4093,12 @@ msgstr "Adressparameter"
 msgid "URLs:"
 msgstr "Adressen:"
 
+msgid "US (English)"
+msgstr "Vereinigte Staaten"
+
+msgid "US (Spanish)"
+msgstr "Vereinigte Staaten (spa)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Imperiales System (Pfund, Fuß, Fahrenheit)"
@@ -4156,12 +4162,6 @@ msgstr "Unicode"
 
 msgid "United Kingdom"
 msgstr "Vereinigtes Königreich"
-
-msgid "US (English)"
-msgstr "Vereinigte Staaten"
-
-msgid "US (Spanish)"
-msgstr "Vereinigte Staaten (spa)"
 
 msgctxt "settings"
 msgid "Units of Measure"

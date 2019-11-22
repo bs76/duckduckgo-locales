@@ -1365,7 +1365,7 @@ msgstr "ଶେଷରେ %sଯୋଗ%s ଉପରେ କ୍ଲିକ କରନ୍�
 msgid "Find %sDuckDuckGo%s and click%sMake default%s"
 msgstr "%sDuckDuckGo %sକୁ ଖୋଜନ୍ତୁ ଏବଂ %sପୂର୍ବନିର୍ଦ୍ଧାରିତ କରନ୍ତୁ%s ଉପରେ କ୍ଲିକ କରନ୍ତୁ"
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Find DuckDuckGo in the displayed list and click %sMake Default%s"
 msgstr "ପ୍ରଦର୍ଶିତ ସୂଚୀରେ  %sମେକ ଡିଫଲ୍ଟ %s ବିକଳ୍ପରେ କ୍ଲିକ କରନ୍ତୁ"
 
@@ -4014,6 +4014,12 @@ msgstr "ୟୁଆରଏଲ ପାରାମିଟର"
 msgid "URLs:"
 msgstr "ୟୁଆରଏଲ"
 
+msgid "US (English)"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର"
+
+msgid "US (Spanish)"
+msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "ଆମେରିକା ଆଧାରିତ (ପାଉଣ୍ଡ, ଫୁଟ, ଫାରେନହାଇଟ)"
@@ -4071,12 +4077,6 @@ msgstr "ୟୁନିକୋଡ଼"
 
 msgid "United Kingdom"
 msgstr "ଯୁକ୍ତରାଜ୍ୟ"
-
-msgid "US (English)"
-msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର"
-
-msgid "US (Spanish)"
-msgstr "ଯୁକ୍ତରାଷ୍ଟ୍ର (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

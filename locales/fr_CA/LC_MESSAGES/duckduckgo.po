@@ -3785,7 +3785,7 @@ msgstr "Suède"
 msgid "Switch to %s"
 msgstr "Changer pour %s"
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo"
 msgstr "mise en route de la page d'accueil"
@@ -4071,6 +4071,12 @@ msgstr "Paramètres d'URL"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "États-Unis"
+
+msgid "US (Spanish)"
+msgstr "États-Unis (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Système impérial (livres, pieds, Fahrenheit)"
@@ -4135,12 +4141,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Royaume-Uni"
-
-msgid "US (English)"
-msgstr "États-Unis"
-
-msgid "US (Spanish)"
-msgstr "États-Unis (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

@@ -3957,6 +3957,12 @@ msgstr ""
 msgid "URLs:"
 msgstr "URLs:"
 
+msgid "US (English)"
+msgstr "Estaos Xuníos"
+
+msgid "US (Spanish)"
+msgstr "Estaos Xuníos (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Imperiales (llibres, pies, graos Fahrenheit)"
@@ -4011,12 +4017,6 @@ msgstr "Unicode"
 
 msgid "United Kingdom"
 msgstr "Reinu Xuníu"
-
-msgid "US (English)"
-msgstr "Estaos Xuníos"
-
-msgid "US (Spanish)"
-msgstr "Estaos Xuníos (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

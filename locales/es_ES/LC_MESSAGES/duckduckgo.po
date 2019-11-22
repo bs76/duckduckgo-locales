@@ -4073,6 +4073,12 @@ msgstr "Parámetros URL"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "Estados Unidos"
+
+msgid "US (Spanish)"
+msgstr "Estados Unidos (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Sistema Americano (Libras, Pies, Fahrenheit)"
@@ -4134,12 +4140,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Reino Unido"
-
-msgid "US (English)"
-msgstr "Estados Unidos"
-
-msgid "US (Spanish)"
-msgstr "Estados Unidos (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"

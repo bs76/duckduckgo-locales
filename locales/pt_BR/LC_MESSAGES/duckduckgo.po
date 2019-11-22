@@ -3232,7 +3232,7 @@ msgctxt "vertical_map"
 msgid "Search Current Map Area"
 msgstr ""
 
-#, fuzzy,translated-trademark
+#, fuzzy
 msgid "Search DuckDuckGo"
 msgstr "Pesquisar"
 
@@ -4055,6 +4055,12 @@ msgstr "Parâmetros de URL:"
 msgid "URLs:"
 msgstr ""
 
+msgid "US (English)"
+msgstr "Estados Unidos"
+
+msgid "US (Spanish)"
+msgstr "Estados Unidos (es)"
+
 msgctxt "settingsvalue"
 msgid "US based (Pounds, Feet, Fahrenheit)"
 msgstr "Baseado em EUA (Libras, Pés, Fahrenheit)"
@@ -4117,12 +4123,6 @@ msgstr ""
 
 msgid "United Kingdom"
 msgstr "Reino Unido"
-
-msgid "US (English)"
-msgstr "Estados Unidos"
-
-msgid "US (Spanish)"
-msgstr "Estados Unidos (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"
