@@ -1343,6 +1343,10 @@ msgstr ""
 "інфармацыя знаходзіцца ў адкрытым доступе, у незашыфраваным выглядзе, "
 "улічваючы што Вы ведаеце ключ."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Кантэнт для дарослых"
@@ -3472,9 +3476,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Паказваць дадзеныя закладак і налад"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Паказваць менш"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

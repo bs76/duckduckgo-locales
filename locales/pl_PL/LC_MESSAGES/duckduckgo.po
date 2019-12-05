@@ -1342,6 +1342,10 @@ msgstr ""
 "Nawet gdyby można było tak zrobić, nie byłoby sensu, ponieważ wszystkie "
 "informacje są jawne i niezaszyfrowane, pod warunkiem że znasz klucz."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Rażąca zawartość"
@@ -3471,9 +3475,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Pokaż skryptozakładki i ustawienia"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Pokaż mniej"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

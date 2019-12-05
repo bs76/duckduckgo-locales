@@ -1338,6 +1338,10 @@ msgstr ""
 "وحتى لو تمكنت من فعلها، لا فائدة ترجى من ذلك حيث أن كلّ المعلومات ستكون في "
 "متناول يديك، غير مشفرة، في حالة معرفتك للمفتاح."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3451,9 +3455,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "عرض بيانات الإعدادات والمفضلة"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "أظهر أقل"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

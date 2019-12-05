@@ -1343,6 +1343,10 @@ msgstr ""
 "Նույնիսկ եթե դու դա կարողանաս անել, դրանում իմաստ չկա, քանի որ ամբողջ "
 "տեղեկատվությունը հասանելի է և չկոդավորված, իհարկե եթե դու գիտես բանալին։"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3458,9 +3462,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Ցույց տալ Bookmarklet֊ների և կարգավորումների տվյալները"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Քիչ ցույց տալ"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

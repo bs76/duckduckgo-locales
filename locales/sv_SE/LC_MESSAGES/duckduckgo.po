@@ -1337,6 +1337,10 @@ msgstr ""
 "Även om du skulle kunna göra det så finns det ingen mening med det, eftersom "
 "all information är ute i det öppna, okrypterat, förutsett att du vet nyckeln."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Stötande innehåll"
@@ -3458,9 +3462,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Visa bookmarklet och inställningsdata"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Visa mindre"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

@@ -1331,6 +1331,10 @@ msgstr ""
 "Selv hvis du kunne gøre det, ville der ikke være noget formål eftersom alt "
 "informationen er åben for dig, såfremt du kender nøglen"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Stødende indhold"
@@ -3452,9 +3456,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Vis bookmarklet- og indstillingsdata"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Vis mindre"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

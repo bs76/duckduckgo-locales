@@ -1335,6 +1335,10 @@ msgstr ""
 "এমনকি আপনিও এটি করতে পারেন, এমনকি যদি সব তথ্য কোন স্থানে খোলা থাকে, এনক্রিপ্ট না "
 "করা অবস্থায়, এবং তা সরবরাহ করা হয় যা আপনি জানেন "
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3442,9 +3446,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "বুকমার্কলেট এবং সেটিংস তথ্য দেখুন"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "কম দেখান"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

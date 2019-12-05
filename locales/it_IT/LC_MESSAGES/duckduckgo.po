@@ -1352,6 +1352,10 @@ msgstr ""
 "Anche se potessi farlo, non avrebbe senso in quanto tutte le informazioni "
 "sono all'aperto, in chiaro, a condizione che tu conosca la chiave."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Contenuti espliciti"
@@ -3491,9 +3495,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Mostra bookmarklet e dati impostazioni"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Mostra Meno"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

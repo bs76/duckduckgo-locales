@@ -1325,6 +1325,10 @@ msgstr ""
 "Hətta siz bunu etsəniz belə, bütün informasiyaların açıq olduğu halda heçbir "
 "önəmi yoxdur, şifrəl"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3430,9 +3434,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Əlfəcinləri və Nizamlama Məlumatlarını göstər"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Az Göstər"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

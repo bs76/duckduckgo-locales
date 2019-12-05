@@ -1350,6 +1350,10 @@ msgstr ""
 "Incluso si pudiera hacer eso, no tiene sentido ya que toda la información "
 "que está allí es abierta, desencriptada, siempre y cuando conozca la llave."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Contenido explícito"
@@ -3485,9 +3489,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Mostrar marcadores y ajustes de datos"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Mostrar menos"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

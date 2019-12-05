@@ -1340,6 +1340,10 @@ msgstr ""
 "ているという前提で、そもそも設定の内容自体はすべて公開されており、暗号化もさ"
 "れていないからです。"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "明示的なコンテンツ"
@@ -3467,9 +3471,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "ブックマークレットと設定データを表示する"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "表示を減らす"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

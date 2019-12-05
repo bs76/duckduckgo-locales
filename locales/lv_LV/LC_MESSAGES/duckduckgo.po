@@ -1320,6 +1320,10 @@ msgstr ""
 "Pat ja tu varētu tā darīt, tam nav jēgas, jo visa informācija ir atklātībā, "
 "nešifrēta, ja tev ir zināma atslēga."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3426,9 +3430,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Parādīt grāmatzīmes un iestatījumu datus"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Parādīt mazāk"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

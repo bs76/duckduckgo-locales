@@ -1312,6 +1312,10 @@ msgstr ""
 "რომც შეგეძლოთ ამის გაკეთება, აზრი არ აქვს რადგან იქ მთელი ინფორმაცია არის "
 "ღია, დაუშიფრავი იმ შემთხვევაში თუ გაქვთ გასაღები"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3399,8 +3403,16 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
+msgstr ""
+
+msgctxt "mobile expanded map"
+msgid "Show List"
 msgstr ""
 
 msgctxt "expand_text"

@@ -1335,6 +1335,10 @@ msgstr ""
 "Ha pa vefec'h gouest d'ober an dra-se, n'eus keudenn ebet rak ar stlennoù a-"
 "bezh zo amañ, er c'houmoul digor, anrineg hag an alc'hwez a anavezit."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3447,9 +3451,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Diskouez ar sined ha roadennoù an arventennoù"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "diskouez neubeutoc'h"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

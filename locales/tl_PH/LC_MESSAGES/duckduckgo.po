@@ -1323,6 +1323,10 @@ msgstr ""
 "Kahit alam mo kung paano gawin yan, wala paring punto sapagkat lahat ng "
 "impormasyon ay nasa bukas, unencrypted, nakabanggit na alam mo ang susi"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3421,9 +3425,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Mas Kaunti"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

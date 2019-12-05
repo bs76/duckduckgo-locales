@@ -1324,6 +1324,10 @@ msgstr ""
 "ನೀವು ಹಾಗೆ ಮಾಡಿದರೂ ಕೂಡಾ, ಎಲ್ಲಾ ಮಾಹಿತಿ ರಿಂದ ಯಾವುದೇ ಪಾಯಿಂಟ್ ಇಲ್ಲ ಇಲ್ಲ ನೀವು ಪ್ರಮುಖ "
 "ತಿಳಿಯಲು ಒದಗಿಸಿದ, ಗೂಢಲಿಪಿಕರಿಸದ, ಮುಕ್ತ."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3416,9 +3420,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "ಕಡಿಮೆ ತೋರಿಸು"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"
