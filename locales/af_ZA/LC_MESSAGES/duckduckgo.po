@@ -1336,6 +1336,10 @@ msgstr ""
 "Selfs al sou u dit kon doen maak dit nie saak nie aangesien al die inligting "
 "ongeënkripteer in die oopte is mits u die sleutel het."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Eksplisiete inhoud"
@@ -3454,9 +3458,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Wys Boekmerk en Instellings Data"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Toon Minder"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

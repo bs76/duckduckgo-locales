@@ -1322,6 +1322,10 @@ msgstr ""
 "Isegi kui te saaksite seda teha, ei ole sellel mõtet, sest kogu "
 "informatsioon on saadaval, krüpteerimata, eeldades, et teate võtit."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3420,9 +3424,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Kuva järjehoidja apleti ja seadete andmed"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Kuva vähem"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

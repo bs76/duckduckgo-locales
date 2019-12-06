@@ -1313,6 +1313,10 @@ msgid ""
 "there in the open, unencrypted, provided you know the key."
 msgstr "即使可以，这样做也没有意义，因为只要知道密钥就能获得存储的所有信息。"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "内容露骨"
@@ -3406,9 +3410,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "显示设置链接和数据"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "收起"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

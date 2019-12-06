@@ -1343,6 +1343,10 @@ msgstr ""
 "Даже если Вы могли бы это сделать, не несёт смысла, поскольку вся информация "
 "есть уже в открытом доступе, расшифроманная, только если Вы знаете ключ."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Откровенный контент"
@@ -3478,9 +3482,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Показать апплет закладок и данные настроек"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Показать меньше результатов"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

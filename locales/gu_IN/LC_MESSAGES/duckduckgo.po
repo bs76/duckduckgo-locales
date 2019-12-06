@@ -1322,6 +1322,10 @@ msgid ""
 "there in the open, unencrypted, provided you know the key."
 msgstr "વાદળસંગ્રહ"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3401,8 +3405,16 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
+msgstr ""
+
+msgctxt "mobile expanded map"
+msgid "Show List"
 msgstr ""
 
 msgctxt "expand_text"

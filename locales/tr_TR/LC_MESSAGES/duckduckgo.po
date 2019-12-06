@@ -1329,6 +1329,10 @@ msgstr ""
 "Ki, bu mümkün olsaydı bile, eğer anahtarı biliyorsanız böyle bir şeye "
 "kalkışmanın bir anlamı olmazdı çünkü bütün bilgiler açık ve şifresizdir."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Sakıncalı içerik"
@@ -3456,9 +3460,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Sık Kullanılanlar ve Ayarlar Bilgilerini Göster"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Daha az göster"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

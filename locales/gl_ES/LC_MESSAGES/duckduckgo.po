@@ -1346,6 +1346,10 @@ msgstr ""
 "Mesmo se se puidera facer iso, non ten sentido, xa que toda a información "
 "está aí á vista, sen cifrar, sempre e cando saiba a chave."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Contido explícito"
@@ -3482,9 +3486,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Mostra marcador e Datos de preferencias"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Mostrar menos"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

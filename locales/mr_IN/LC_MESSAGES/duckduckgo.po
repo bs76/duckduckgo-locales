@@ -1323,6 +1323,10 @@ msgstr ""
 "जरी तुम्ही केलात, तरी काही उपयोग नाही, कारन इथे सर्व माहीती ही खुली ,अकूटबध्दरीत्या "
 "उप्लब्ध आहे, मात्र त्यासाठी तुम्हास तुम्चि सांकेतीक कील्ली माहीत असयला हवी."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3408,8 +3412,16 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
+msgstr ""
+
+msgctxt "mobile expanded map"
+msgid "Show List"
 msgstr ""
 
 msgctxt "expand_text"

@@ -1343,6 +1343,10 @@ msgstr ""
 "Même si vous pouviez le faire, c'est inutile puisque toutes les informations "
 "sont disponible, à condition de connaître la clé."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3486,9 +3490,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Afficher le Bookmarklet et les données de paramétrage"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Voir moins"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

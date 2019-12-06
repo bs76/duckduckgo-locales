@@ -1313,6 +1313,10 @@ msgstr ""
 "只要您知道密匙，所有資訊您都可以不經加密地輕易取得，因此即使您能以逆向工程取"
 "得密碼，這也是多此一舉。"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3401,9 +3405,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "顯示書籤小工具以及設定資料"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "顯示較少"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

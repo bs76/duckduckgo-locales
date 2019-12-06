@@ -1327,6 +1327,10 @@ msgstr ""
 "Tudi, če bi to lahko naredili, ne bi imelo smisla, saj so vse informacije na "
 "voljo v odprti, nešifrirani obliki, če veste ključ."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3430,9 +3434,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Prikaži bookmarklet in podatke o nastavitvah"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Pokaži manj"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

@@ -1328,6 +1328,10 @@ msgstr ""
 "원래 비밀번호를 찾아낼 수 있다고 하더라도, 그것은 이미 모든 정보가 암호화되지"
 "않은 채로 공개되어 있다는 뜻이기 때문에 결국 아무 소용이 없는 짓입니다."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "자극적인 내용"
@@ -3445,9 +3449,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "북마크와 설정값 보이기"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "줄여보기"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

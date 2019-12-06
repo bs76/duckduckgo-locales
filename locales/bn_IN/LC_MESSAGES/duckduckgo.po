@@ -1332,6 +1332,10 @@ msgstr ""
 "আপনি করতে পারেন, কিন্তু সেতার কন দরকার নেই কারন সমস্ত তথ্য অবরুধধ, কিন্তু আপনাকে "
 "চাবি তা জান্তে হবে"
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3419,8 +3423,16 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr ""
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
+msgstr ""
+
+msgctxt "mobile expanded map"
+msgid "Show List"
 msgstr ""
 
 msgctxt "expand_text"

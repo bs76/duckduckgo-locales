@@ -1331,6 +1331,10 @@ msgstr ""
 "Walaupun anda boleh berbuat demikian, ia tidak memberi apa-apa kesan kerana "
 "semua maklumat adalah terbuka dan tidak sulit melainkan anda tahu kuncinya."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3441,9 +3445,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Tunjukkan Penanda Buku and Butiran Tetapan"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Papar Kurang"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

@@ -1344,6 +1344,10 @@ msgstr ""
 "Mégha meg is tudnád csinálni, semmi értelme hiszen minden információ ott van "
 "nyilvánosan, kódolatlanul, feltételezve,  hogy ismered a kulcsot."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3500,9 +3504,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Könyvjegyzők és beállítások mutatása"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Mutass kevesebbet"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

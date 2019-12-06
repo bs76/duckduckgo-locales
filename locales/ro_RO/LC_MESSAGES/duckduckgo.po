@@ -1347,6 +1347,10 @@ msgstr ""
 "Chiar dacă ai putea face asta, nu are nici un sens deoarece toată informația "
 "este disponibilă, deschisă, necriptată, atât timp cât cunoști cheia."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Conținut explicit"
@@ -3483,9 +3487,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Vezi Bookmarklet și Setări"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Arată mai Puțin"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

@@ -1353,6 +1353,10 @@ msgstr ""
 "Fiù nam b' urrainn dhut sin a dhèanamh, cha bhiodh e gu feum a chionn 's gu "
 "bheil am fiosrachadh ris, gun chrioptachadh, fhad 's a tha an iuchair agad."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr ""
@@ -3490,9 +3494,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Seall dàta nan roghainnean is bookmarklet"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Seall nas lugha"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

@@ -1352,6 +1352,10 @@ msgstr ""
 "Mesmo que pudesse fazê-lo, não é necessário já que toda a informação está "
 "visível, sem encriptação, desde que conheça a chave."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "Conteúdo Explicito"
@@ -3483,9 +3487,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Mostrar Marcadores e Dados de Configurações"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "Mostrar Menos"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"

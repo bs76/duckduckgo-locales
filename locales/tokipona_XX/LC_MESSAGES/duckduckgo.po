@@ -1342,6 +1342,10 @@ msgstr ""
 "sina ken pali e ona, la ona li pona ala tan nimi li pona tawa sina, la sina "
 "e nimi pimeja."
 
+msgctxt "mobile expanded map"
+msgid "Expand Map"
+msgstr ""
+
 msgctxt "Report image modal"
 msgid "Explicit content"
 msgstr "ijo tawa jan suli taso"
@@ -3472,9 +3476,17 @@ msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "lukin e ilo bookmarklet en sitelen mute pi nimi tawa kama"
 
+msgctxt "mobile expanded map"
+msgid "Show Detail"
+msgstr ""
+
 msgctxt "expand_text"
 msgid "Show Less"
 msgstr "lukin pili"
+
+msgctxt "mobile expanded map"
+msgid "Show List"
+msgstr ""
 
 msgctxt "expand_text"
 msgid "Show More"
